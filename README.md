@@ -114,7 +114,9 @@ As soon as the jobs are done running we can view the changes through the browser
 ### Key Tips :
 
 * We can create a public IP with ngrok to make the production page visible to the outside world :
+```
 ./ngrok http 8080
+```
 
 ![ngrok config](/Home_Assignment/16.png)
 
