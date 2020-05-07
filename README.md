@@ -113,7 +113,7 @@ As soon as the jobs are done running we can view the changes through the browser
 
 ### Key Tips :
 
-* We can create a public IP with ngrok to make the production page visible to the outside world :
+* We can create a public IP with ngrok for the private Jenkins IP through tunnelling to make the production page visible to the outside world :
 ```
 ./ngrok http 8080
 ```
